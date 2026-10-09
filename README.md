@@ -33,7 +33,7 @@ business-landing-page/
 3. Resize the browser to test desktop and mobile layouts.
 
 ## Live Demo
-After uploading the files to GitHub, enable GitHub Pages in the repository settings and add the published URL here.
+Website:https://karanwebdesign.github.io/Business-landing-page/
 
 ## Important Note
 PixelCraft Digital is a fictional brand created for practice. The contact form currently demonstrates frontend validation only; it does not send or store messages. Replace the sample email and connect a form service/backend before using it for a real business.
