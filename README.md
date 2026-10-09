@@ -19,6 +19,8 @@ A responsive fictional digital agency landing page created for the WeIntern Week
 ## Project Structure
 ```text
 business-landing-page/
+├── assets/
+│   └── favicon.png
 ├── index.html
 ├── style.css
 ├── script.js
